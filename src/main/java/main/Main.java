@@ -6,6 +6,8 @@ public class Main {
         p("common line 2");
         p("common line 3");
         p("specific A line 1");
+        p("common line 4");
+        p("specific A line 2");
     }
 
     private static void p(Object o) {
