@@ -5,9 +5,10 @@ public class Main {
         p("common line 1");
         p("common line 2");
         p("common line 3");
-        p("specific A line 1");
+        p("specific B line 1");
+        p("specific B line 2");
         p("common line 4");
-        p("specific A line 2");
+        p("specific B line 3");
     }
 
     private static void p(Object o) {
