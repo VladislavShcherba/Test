@@ -5,6 +5,7 @@ public class Main {
         p("common line 1");
         p("common line 2");
         p("common line 3");
+        p("specific B line 1");
     }
 
     private static void p(Object o) {
